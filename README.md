@@ -14,13 +14,13 @@ In order to provide insights for Lou
 
 It 
 
-![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png "Theater_Outcomes_vs_Launch")
+![Theater_Outcomes_vs_Launch](VBA_Challenge_2018_AllStocks.png "VBA_Challenge_2018_AllStocks")
 
 ### Analysis of Outcomes Based on Goals
 
 Generally, 
 
-![Outcomes_vs_Goals](Outcomes_vs_Goals.png "Outcomes_vs_Goals")
+![Outcomes_vs_Goals](VBA_Challenge_2018_AllStocksRefactored.png "VBA_Challenge_2018_AllStocksRefactored")
 
 Description of Chart:
 - From $0 to $14,999 more plays were successful than failures.
