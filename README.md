@@ -18,7 +18,7 @@ The original approach using the AllStockAnalysis() Module, iterates over each ce
 
 The original approach runs in 0.2890625 seconds. While this seems fast, our Refactored analysis shows there is room for improvement. 
 
-![Theater_Outcomes_vs_Launch](VBA_Challenge_2018_AllStocks.png "VBA_Challenge_2018_AllStocks")
+![Theater_Outcomes_vs_Launch](VBA_Challenge_2018_AllStocks.PNG "VBA_Challenge_2018_AllStocks")
 
 ### Analysis of Performance: AllStockAnalysisRefactored() Module
 
