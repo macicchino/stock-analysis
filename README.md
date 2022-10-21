@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Background
-Steve's parents are interested in 'Green' or environmentally friendly Stocks. We've created a vba code to review multiple tickers over multiple years using a AllStocksAnalysis module with VBA code. However, the code is not efficient and can be improved. This way if Steve would like to review a large number of stocks, the module will use less memory and still work without crashing. 
+Steve's parents are interested in 'Green' or environmentally friendly Stocks. We've created a program to review multiple tickers over multiple years using a AllStocksAnalysis module with VBA code. However, the code is not efficient and can be improved. This way if Steve would like to review a large number of stocks, the module will use less memory and still work without crashing. 
 
 ### Purpose
 The purpose of this exercise is to use more efficient code. In using less steps and more abstract logic, code can become more efficient, use less memory, and decrease run time.
